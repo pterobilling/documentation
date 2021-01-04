@@ -1,4 +1,8 @@
-# Welcome to PteroBilling Documentation
+<div align="center">
+    <img src="https://raw.githubusercontent.com/pterobilling/pterobilling/master/.github/icon_blue_bg.png" alt="PteroBilling" width="150px">
+    <h1>Welcome to PteroBilling Documentation</h1>
+    <h3>PteroBilling is an open-source online store, client area, and billing software specially made for Pterodactyl panel</h3>
+</div>
 
 ### Note: Our documentation is still under development.
 
