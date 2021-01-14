@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/pterobilling/pterobilling/master/.github/icon_blue_bg.png" alt="PteroBilling" width="150px">
+    <img src="https://raw.githubusercontent.com/pterobilling/pterobilling/master/.github/icon_blue.png" alt="PteroBilling" width="150px">
     <h1>Welcome to PteroBilling Documentation</h1>
     <h3>PteroBilling is an open-source online store, client area, and billing software specially made for Pterodactyl panel</h3>
 </div>
@@ -17,6 +17,9 @@
 - Add and modify the pages of your store (a contact form page is included)
 - Built-in subdomain manager and JAR installer for game servers
 - Fully customizable: custom themes, extensions (PayPal, Cloudflare, hCaptcha integrations), blade templates
+
+### Requirements
+- Pterodactyl panel **v1.0 or above** already installed on the same or different server
 
 ## Installation
 PteroBilling has not been released yet. Make sure to watch our repo and not to miss the pre-release!
