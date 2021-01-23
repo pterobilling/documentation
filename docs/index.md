@@ -4,6 +4,11 @@
     <h3>PteroBilling is an open-source online store, client area, and billing software specially made for Pterodactyl panel</h3>
 </div>
 
+![Badge of Stable](https://badgen.net/github/release/pterobilling/pterobilling/stable?label=stable&color=green)
+![Badge of Latest](https://badgen.net/github/release/pterobilling/pterobilling?label=latest&color=orange)
+![Badge of Stars](https://badgen.net/github/stars/pterobilling/pterobilling?color=green)
+![Badge of License](https://badgen.net/github/license/pterobilling/pterobilling)
+
 ### Note: Our documentation is still under development.
 
 ## Features
