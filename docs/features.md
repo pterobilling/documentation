@@ -1,4 +1,6 @@
 # Features
+<hr>
+
 - Free and open-source
 - A user-friendly client area and powerful admin area with a beautiful theme (customizable)
 - Create your server plans and add-ons with custom settings (CPU, RAM, disk, databases, backups, allocations), prices, billing cycles, setup fees, free trial, discounts, coupon codes, global limits, and per client limits

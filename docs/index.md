@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/github/stars/pterobilling/pterobilling?style=for-the-badge" alt="stars badge">&emsp;
     <img src="https://img.shields.io/github/watchers/pterobilling/pterobilling?style=for-the-badge" alt="watchers badge">&emsp;
     <!--<img src="https://img.shields.io/packagist/dt/pterobilling/pterobilling?color=brightgreen&style=for-the-badge" alt="downloads badge">-->
+    <hr>
 </div>
 
 ### Note: Our documentation is still under development.

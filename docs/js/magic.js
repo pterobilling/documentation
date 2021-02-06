@@ -16,7 +16,7 @@ function detectAdBlock(tries = 0) {
         if (tries >= 3) {
             document.body.innerHTML = null;
             alert("Please disable your ad blocker before continuing to browse this website. If this is a false positive, please contact me (Alaister) to fix the bug. Thank you very much!");
-            window.location.replace("/adblock?fromUrl=" + window.location.href);
+            location.reload();
         } else if (typeof isCloudflareAppsEnabled == "undefined") {
             detectAdBlock(tries + 1);
             console.warn("Ad blocker detected!");
