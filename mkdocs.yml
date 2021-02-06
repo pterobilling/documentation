@@ -1,4 +1,13 @@
 site_name: PteroBilling Documentation
+repo_url: https://github.com/pterobilling/documentation
+site_description: The documentation for guiding you on how to set up PteroBilling on your server, which is an open-source online store, client area, and billing software specially made for Pterodactyl panel.
+site_author: Alaister Leung
+copyright: Copyright © 2021 Alaister Leung.
 theme: readthedocs
 nav:
-- Introduction: 'index.md'
+  - Home: index.md
+  - Features: features.md
+  - Installation: install.md
+  - Frequently Asked Questions: faq.md
+extra_javascript:
+  - js/magic.js

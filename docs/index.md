@@ -2,29 +2,11 @@
     <img src="https://raw.githubusercontent.com/pterobilling/pterobilling/master/.github/icon_blue.png" alt="PteroBilling" width="150px">
     <h1>Welcome to PteroBilling Documentation</h1>
     <h3>PteroBilling is an open-source online store, client area, and billing software specially made for Pterodactyl panel</h3>
+    <img src="https://img.shields.io/github/v/release/pterobilling/pterobilling?sort=semver&color=green&label=stable&style=for-the-badge" alt="stable release badge">&emsp;
+    <img src="https://img.shields.io/github/v/release/pterobilling/pterobilling?include_prereleases&sort=semver&label=latest&style=for-the-badge" lt="latest release badge)">&emsp;
+    <img src="https://img.shields.io/github/stars/pterobilling/pterobilling?style=for-the-badge" alt="stars badge">&emsp;
+    <img src="https://img.shields.io/github/watchers/pterobilling/pterobilling?style=for-the-badge" alt="watchers badge">&emsp;
+    <!--<img src="https://img.shields.io/packagist/dt/pterobilling/pterobilling?color=brightgreen&style=for-the-badge" alt="downloads badge">-->
 </div>
 
-![Badge of Stable](https://badgen.net/github/release/pterobilling/pterobilling/stable?label=stable&color=green)
-![Badge of Latest](https://badgen.net/github/release/pterobilling/pterobilling?label=latest&color=orange)
-![Badge of Stars](https://badgen.net/github/stars/pterobilling/pterobilling?color=green)
-![Badge of License](https://badgen.net/github/license/pterobilling/pterobilling)
-
 ### Note: Our documentation is still under development.
-
-## Features
-- Free and open-source
-- Beautiful storefront, user-friendly client area and admin area
-- Create your server plans and add-ons with your custom features (CPU, RAM, disk, etc), prices and billing cycles
-- Automatically create panel accounts and game servers for your clients
-- Promote your business with coupon codes, discounts, and an affiliate program
-- Automatically bill, create invoices and collect recurring payments from your clients from different payment gateways, currencies, taxes and fees
-- Built-in support center with ticketing system, announcements, knowledge base, and status page
-- Add and modify the pages of your store (a contact form page is included)
-- Built-in subdomain manager and JAR installer for game servers
-- Fully customizable: custom themes, extensions (PayPal, Cloudflare, hCaptcha integrations), blade templates
-
-### Requirements
-- Pterodactyl panel **v1.0 or above** already installed on the same or different server
-
-## Installation
-PteroBilling has not been released yet. Make sure to watch our repo and not to miss the pre-release!
