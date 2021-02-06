@@ -1,4 +1,4 @@
-# Features
+<h1>Features</h1>
 <hr>
 
 - Free and open-source

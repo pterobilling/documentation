@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+<h1>Frequently Asked Questions</h1>
 <hr>
 
 ## When will PteroBilling be released?
