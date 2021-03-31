@@ -7,7 +7,13 @@ theme: readthedocs
 nav:
   - Home: index.md
   - Features: features.md
-  - Installation: install.md
+  - Getting Started:
+    - Requirements: require.md
+    - Installation: install.md
+    - MySQL Database: mysql.md
+    - Configurations: config.md
+    - Web Server Configuration: web_server_config.md
+    - Pterodactyl Configuration: pterodactyl_config.md
   - Frequently Asked Questions: faq.md
 extra_javascript:
   - js/magic.js
