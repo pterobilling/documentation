@@ -12,7 +12,7 @@ cd /var/www
 Next, run the following commands and a new folder named ‘pterobilling’ will be created automatically in your current working directory:
 
 ```shell
-composer create-project pterobilling/pterobilling pterobilling --no-dev --stability=beta
+composer create-project pterobilling/pterobilling pterobilling --no-dev --stability=alpha
 chmod -R 755 /var/www/pterobilling
 chown -R www-data:www-data /var/www/pterobilling
 ```

@@ -3,7 +3,7 @@
 
 First, create an SSL certificate. Please follow [the guide from Pterodactyl](https://pterodactyl.io/tutorials/creating_ssl_certificates.html).
 
-Next, if you are using nginx, create a file named `/etc/nginx/sites-available/pterobilling.conf`. Then, copy and paste the content below into the file. Replace &lt;domain&gt; with the your domain name.
+Next, if you are using nginx, create a file named `/etc/nginx/sites-available/pterobilling.conf`. Then, copy and paste the content below into the file. Replace &lt;domain&gt; with your domain name.
 
 ```conf
 server {
