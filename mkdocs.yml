@@ -6,7 +6,6 @@ copyright: Copyright © 2021 Alaister Leung.
 theme: readthedocs
 nav:
   - Home: index.md
-  - Features: features.md
   - Frequently Asked Questions: faq.md
   - Getting Started:
     - Requirements: require.md
