@@ -12,6 +12,7 @@
     <br>
     <img src="https://raw.githubusercontent.com/pterobilling/pterobilling/master/.github/preview_1_dark.png" alt="Preview" width="40%">&emsp;
     <img src="https://raw.githubusercontent.com/pterobilling/pterobilling/master/.github/preview_1_light.png" alt="Preview" width="40%">
+    <br>
     <h3>Announcement: An early access will be released soon!</h3>
     <h4>Note: Our documentation is still under development.</h4>
 </div>
@@ -33,12 +34,15 @@ Around **Mid-April**.
 - *Extendable: add more features by installing extensions (PayPal, Cloudflare Zone, cPanel Zone, Minecraft JAR, hCaptcha)
 
 ## Getting Started
-Please read our [documentation](https://docs.alaister.net).
+First, make sure you have installed the [required dependencies](require.md). Next, [install PteroBilling](install.md) on your server. During the installation, you may need to [set up your database](mysql.md) and edit the [configurations of PteroBilling](config.md), [web server](web_server_config.md), and the [Pterodactyl panel](pterodactyl_config.md).
 
 ## Support
 **Make sure you have gone through the documentation before asking for help. Thank you!**
+
 Need help setting up PteroBilling? Ask on the [discussions page](https://github.com/pterobilling/pterobilling/discussions).
+
 Have a Discord account? Join our [Discord server](https://discord.gg/GQ5EWQz6MQ).
+
 **PLEASE DON'T ASK FOR HELP ON THE ISSUES PAGE!** That's for bug reports and feature requests.
 
 ## License
