@@ -1,6 +1,2 @@
 # PteroBilling Documentation
-### The documentation for guiding you on how to set up PteroBilling on your server
-
-[![Documentation Status](https://readthedocs.org/projects/pterobilling/badge/?version=latest)](https://pterobilling.readthedocs.io/en/latest)
-
-#### Note: Our documentation is still under development.
+## We've moved the documentation to [pterobilling/docs](https://github.com/pterobilling/docs)
